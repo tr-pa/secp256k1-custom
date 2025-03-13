@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'secp256k1-custom'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'A custom implementation of secp256k1 cryptographic functions for iOS'
   s.module_name      = 'secp256k1'
   s.homepage         = 'https://github.com/tr-pa/secp256k1-custom'
