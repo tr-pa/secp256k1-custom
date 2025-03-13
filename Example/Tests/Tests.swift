@@ -1,5 +1,5 @@
 import XCTest
-import secp256k1-custom
+import secp256k1
 
 class Tests: XCTestCase {
     
