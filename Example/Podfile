@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'secp256k1-custom_Example' do
+  pod 'secp256k1-custom', :path => '../'
+
+  target 'secp256k1-custom_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
